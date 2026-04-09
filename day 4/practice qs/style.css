@@ -1,0 +1,24 @@
+/* this is id selector */
+#outer{
+    height: 200px;
+    width: 70px;
+    border:2px solid black;
+}
+/* this is class slector */
+.iner{
+    height: 50px;
+    width: 50px;
+    border:2px solid black ;
+    margin: 10px ;
+    border-radius:50% ;
+}
+    #red{
+        background-color: red;
+    }
+    #yello{
+        background-color: yellow;
+    }
+    #green{
+        background-color: green;
+    }
+

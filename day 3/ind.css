@@ -1,0 +1,65 @@
+*{
+    background-color: blue;
+}
+h1,h2,
+h3{
+    color: white;
+}
+h1 > button{
+    color: white;
+}
+h1 > button:hover{
+    background-color: black;
+    color: greenyellow;
+}
+
+/* #text{
+    color: red;
+} */
+/* #password{
+    color: lightpink;
+} */
+ input[type]{
+    color: red;
+ }
+h1{
+    display: inline;
+}
+p{
+    color: white;
+}
+p a{
+    background-color: yellow;
+    color: purple;
+}
+h1{
+    color: brown;
+}
+h1:hover{
+    color: darkorchid;
+
+}
+.upvote{
+    background-color: red;
+}
+.upvote:hover{
+    background-color: black;
+    color: white;
+}
+.answer{
+    background-color: pink;
+    color: brown;
+}
+.answer:hover{
+    color: blue;
+    background-color: yellow;
+}
+nav ul li{
+    color: black;
+}
+nav ul li a{
+    color: pink;
+}
+p{
+
+}
